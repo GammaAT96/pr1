@@ -1,0 +1,20 @@
+{
+  "name": "prbackend",
+  "version": "1.0.0",
+  "description": "a basic project",
+  "keywords": [
+    "mern",
+    "pr1"
+  ],
+  "license": "ISC",
+  "author": "anantdev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
